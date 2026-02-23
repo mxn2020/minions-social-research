@@ -1,6 +1,12 @@
 ---
 name: minions-social-research
-description: Trend sources, competitor snapshots, hashtag sets, and audience notes
+id: OC-0160
+version: 1.0.0
+description: "Trend sources, competitor snapshots, hashtag sets, and audience notes"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-social-research — Agent Skills
