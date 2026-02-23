@@ -1,0 +1,38 @@
+{
+  "name": "@minions-social-research/cli",
+  "version": "0.1.0",
+  "description": "CLI for minions-social-research — Trend sources, competitor snapshots, hashtag sets, and audience notes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxn2020/minions-social-research"
+  },
+  "homepage": "https://social-research.minions.help",
+  "keywords": ["social-research","ai","minions"],
+  "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
+  "type": "module",
+  "bin": {
+    "social-research": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "lint": "tsc --noEmit",
+    "dev": "node --loader ts-node/esm src/index.ts"
+  },
+  "dependencies": {
+    "@minions-social-research/sdk": "workspace:*",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "inquirer": "^13.2.5",
+    "minions-sdk": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "typescript": "^5.9.3"
+  }
+}
