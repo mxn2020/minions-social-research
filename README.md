@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-social-research-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-social-research
 
 **Trend sources, competitor snapshots, hashtag sets, and audience notes**

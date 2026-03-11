@@ -1,0 +1,8 @@
+name: "@minions-social-research/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-social-research-workspace
+description: "Standard compliance definition for @minions-social-research/docs"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,8 @@
+name: "@minions-social-research/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-social-research-workspace
+description: "CLI for minions-social-research — Trend sources, competitor snapshots, hashtag sets, and audience notes"
+priority: high
+deploy_url: null
+tags: null

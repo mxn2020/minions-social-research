@@ -1,0 +1,8 @@
+name: "@minions-social-research/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-social-research-workspace
+description: "Trend sources, competitor snapshots, hashtag sets, and audience notes"
+priority: high
+deploy_url: null
+tags: null
