@@ -1,0 +1,16 @@
+name: minions-social-research-workspace
+project_scope: main
+project_type: monorepo
+description: Trend sources, competitor snapshots, hashtag sets, and audience notes
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-social-research"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-social-research-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
